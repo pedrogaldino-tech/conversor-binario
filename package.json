@@ -1,8 +1,16 @@
 {
+  "name": "conversor-binario",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "express": "^5.2.1",
     "supertest": "^7.2.2",
     "swagger-ui-express": "^5.0.1",
     "yamljs": "^0.3.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
